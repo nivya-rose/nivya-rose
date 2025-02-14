@@ -1,7 +1,8 @@
 <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAwNDAxNjMsIm5iZiI6MTczMDAzOTg2MywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI3VDE0Mzc0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiMGNjYjcwODYzMWE5YzA2N2IwNzhmZmZiYmUyNDkxNTMxOTM1Y2FjOWYzNjU5NzEwN2YzOWI0Nzk0N2QxYmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._gBXMd0a_9Ni8Mlur_kt7RXS-jpVC2SV0peKTg7HDLs" width="1200">
 <h1 align="center">Hey, I'm Nivya Rose</a></h1> 
 <!---<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"> -->
-
+<h3 align="center">passionate Software Developer <a href="https://www.cet.ac.in/" style="color: #00ff00;">CET</a> .</h3>
+<h3 align="center">📌Alappuzha, Kerala, India </h3>
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 <hr style="height:0.5px;border-width:0;color:#00ff00;background-color:#00ff00">
@@ -13,6 +14,7 @@
 <h3 align="left" style="color: #00ff00;">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nivya-rose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nivya-rose" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/nivyarose.ignatious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sreyas.s_" height="30" width="40" /></a>
 </p>
 
 <hr style="height:0.5px;border-width:0;color:#00ff00;background-color:#00ff00">
