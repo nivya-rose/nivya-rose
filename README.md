@@ -1,4 +1,3 @@
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAwNDAxNjMsIm5iZiI6MTczMDAzOTg2MywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI3VDE0Mzc0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiMGNjYjcwODYzMWE5YzA2N2IwNzhmZmZiYmUyNDkxNTMxOTM1Y2FjOWYzNjU5NzEwN2YzOWI0Nzk0N2QxYmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._gBXMd0a_9Ni8Mlur_kt7RXS-jpVC2SV0peKTg7HDLs" width="1200">
 <h1 align="center">Hey, I'm Nivya Rose</a></h1> 
 <h3 align="center">Passionate Software Developer</h3>
 <h3 align="center">Cherthala, Kerala, India </h3>
@@ -27,9 +26,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 
 
-
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nivya-rose&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="nivya-rose" /></p>
-<br>
 
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=nivya-rose&show_icons=true&theme=chartreuse-dark&hide_border=true&locale=en" alt="nivya-rose" /></p>
 <br>
